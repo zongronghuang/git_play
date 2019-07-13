@@ -1,2 +1,2 @@
-# git_play
+# git_fun
 For practicing git operations
